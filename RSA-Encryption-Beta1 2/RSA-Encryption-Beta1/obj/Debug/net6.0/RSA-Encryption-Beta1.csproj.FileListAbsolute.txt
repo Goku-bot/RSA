@@ -1,0 +1,15 @@
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/bin/Debug/net6.0/RSA-Encryption-Beta1
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/bin/Debug/net6.0/RSA-Encryption-Beta1.deps.json
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/bin/Debug/net6.0/RSA-Encryption-Beta1.runtimeconfig.json
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/bin/Debug/net6.0/RSA-Encryption-Beta1.dll
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/bin/Debug/net6.0/RSA-Encryption-Beta1.pdb
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/RSA-Encryption-Beta1.csproj.AssemblyReference.cache
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/RSA-Encryption-Beta1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/RSA-Encryption-Beta1.AssemblyInfoInputs.cache
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/RSA-Encryption-Beta1.AssemblyInfo.cs
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/RSA-Encryption-Beta1.csproj.CoreCompileInputs.cache
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/RSA-Encryption-Beta1.dll
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/refint/RSA-Encryption-Beta1.dll
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/RSA-Encryption-Beta1.pdb
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/RSA-Encryption-Beta1.genruntimeconfig.cache
+/Users/gokdenizgulmez/Desktop/RSA-Encryption-Beta1/RSA-Encryption-Beta1/obj/Debug/net6.0/ref/RSA-Encryption-Beta1.dll
